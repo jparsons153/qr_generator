@@ -21,8 +21,7 @@ A simple and elegant QR code generator built with Vue 3 and Vite. Enter any URL 
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
-- npm or yarn
+- Node 24
 
 ### Installation
 
@@ -40,7 +39,7 @@ Start the development server:
 npm run dev
 ```
 
-The app will be available at `http://localhost:5173` (or another port if 5173 is in use).
+The app will be available at `http://localhost:5173` 
 
 ### Build for Production
 
