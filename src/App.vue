@@ -64,7 +64,7 @@ const handleKeyPress = (event) => {
       <input
         id="url-input"
         v-model="url"
-        type="text"
+        type="url"
         placeholder="https://example.com"
         @keypress="handleKeyPress"
       >
